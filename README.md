@@ -4,7 +4,7 @@
 包括但不限于Spigot，Paper
 版权所有
 
-B站介绍演示
+B站介绍
 https://space.bilibili.com/1798823866/
 https://www.bilibili.com/video/BV1tu411E7aZ/
 https://www.bilibili.com/video/BV17u411J7Bs/
