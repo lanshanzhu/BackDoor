@@ -1,0 +1,4 @@
+name: backdoor
+version: '${version}'
+main: link.mchypixel.backdoor
+api-version: '1.20'
